@@ -54,7 +54,7 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 | **V2Box**  |   | :x: | :x: |
 | **Shadowrocket**  |   | :x: | :x: |
 | **Nekoray**  |   | :heavy_check_mark: | :x: |
-| **Hiddify**  | 2.0.5 or higher  | :x: | :x: |
+| **Hiddify**  | 2.0.5 or higher  | :heavy_check_mark: | :heavy_check_mark: |
 | **NikaNG**  |   | :heavy_check_mark: | :heavy_check_mark: |
 | **Clash Meta**  |   | :x: | :x: |
 | **Clash Verge Rev**  |   | :x: | :x: |
